@@ -1,2 +1,2 @@
-# first-class
-My first Repo
+# My first class!
+## Hello
